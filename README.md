@@ -4,7 +4,7 @@
 This is a PHPStorm theme inspired by a [Grafikart's theme](http://www.grafikart.fr/ressources/netbeans/theme-netbeans-10) for the NetBeans IDE.
 
 
-For now, only the PHP part of the theme as been ported.
+For now, only the PHP part of the theme has been ported.
 
 Javascript and HTML part are on the TODO-list.
 
