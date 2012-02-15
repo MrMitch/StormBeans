@@ -1,17 +1,11 @@
 # StormBeans, a PhpStorm theme for human beings
 
+This is a **dark**, eye-friendly, distraction-free and **_color-consistent_** PhpStorm theme.   
+It's been inspired by a [Grafikart's theme](http://www.grafikart.fr/ressources/netbeans/theme-netbeans-10) for the NetBeans IDE.
 
-This is a PhpStorm theme inspired by a [Grafikart's theme](http://www.grafikart.fr/ressources/netbeans/theme-netbeans-10) for the NetBeans IDE.
+For now,**PHP**, **HTML**, **Javascript** and **CSS** color schemes are implemented. Other languages' scheme are derivated from PhpStrom's  *default* color scheme.
 
-For now, only the PHP part of the theme has been ported.  
-Javascript and HTML part are on the TODO-list.
-
-
-* Preview
-* Installation
-* Notes
-
-## Preview : 
+## Preview  
 
 This is how StormBeans is rendered by PhpStorm 3.0.2 on an Ubuntu 11.10 installation.
 
@@ -36,7 +30,7 @@ This is how StormBeans is rendered by PhpStorm 3.0.2 on an Ubuntu 11.10 installa
 The default font used is `DejaVu Sans Mono` at size 11.  
 It can be changed by modifying the [`src/colors/StormBeans.xml`](https://raw.github.com/MrMitch/StormBeans/master/src/colors/StormBeans.xml) file.  
 Change the `value` attribute of the third option (with the `name` being `EDITOR_FONT_NAME`).  
-For instance, let's say you are on a Microsoft Windows computer and want to use the `Consolas` font, you should edit the line like so :   
+For instance, let's say you are using a Microsoft Windows computer (*it's OK, I won't judge you even if I think you should try [THAT](http://www.ubuntu.com)*) and want to use the `Consolas` font, you should edit the line like so :   
 
 ```xml
 <option name="EDITOR_FONT_NAME" value="Consolas" />
