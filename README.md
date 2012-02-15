@@ -30,7 +30,7 @@ This is how StormBeans is rendered by PhpStorm 3.0.2 on an Ubuntu 11.10 installa
 The default font used is `DejaVu Sans Mono` at size 11.  
 It can be changed by modifying the [`src/colors/StormBeans.xml`](https://raw.github.com/MrMitch/StormBeans/master/src/colors/StormBeans.xml) file.  
 Change the `value` attribute of the third option (with the `name` being `EDITOR_FONT_NAME`).  
-For instance, let's say you are using a Microsoft Windows computer (*it's OK, I won't judge you even if I think you should try [THAT](http://www.ubuntu.com)*) and want to use the `Consolas` font, you should edit the line like so :   
+For instance, let's say you are using a computer running Microsoft Windows (*it's OK, I won't judge you even if I think you should try [THAT](http://www.ubuntu.com)* :trollface:) and want to use the `Consolas` font, you should edit the line like so :   
 
 ```xml
 <option name="EDITOR_FONT_NAME" value="Consolas" />
