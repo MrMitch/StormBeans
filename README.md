@@ -9,7 +9,7 @@ For now,**PHP**, **HTML**, **Javascript** and **CSS** color schemes are implemen
 
 This is how StormBeans is rendered by PhpStorm 3.0.2 on an Ubuntu 11.10 installation.
 
-![Preview](http://i.minus.com/iRa1JZMYjiviH.png)
+![Preview](http://i.minus.com/ibuYnxWmG00pyv.png)
 
 ## Installation
 
