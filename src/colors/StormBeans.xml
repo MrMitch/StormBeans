@@ -2238,8 +2238,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="d7b341" />
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" value="696b36" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="5" />
